@@ -1,2 +1,2 @@
-# agent-lab
-Learning AI agent as a team
+# 团队的Agent学习
+共同学习DeepAgent
